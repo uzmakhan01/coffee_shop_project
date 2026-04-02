@@ -85,8 +85,10 @@ while True:
     else:
         print("Invalid input, please enter a number or 'done'.")
 
+
 # 5. Place order for customer
 customer1.place_order(order1)
+
 
 # 6. Display the order
 customer1.view_orders()
